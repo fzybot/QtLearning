@@ -9,7 +9,9 @@ CONFIG -= app_bundle
 
 SOURCES += \
         counter.cpp \
-        main.cpp
+        main.cpp \
+        quitwidget.cpp
 
 HEADERS += \
-    counter.h
+    counter.h \
+    quitwidget.h
